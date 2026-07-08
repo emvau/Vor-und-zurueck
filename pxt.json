@@ -6,7 +6,7 @@
         "maqueenPlusV2": "github:DFRobot/pxt-DFRobot_MaqueenPlus_v20"
     },
     "files": [
-        "Vor-zurueck.md"
+        "vor-zurueck.md"
     ],
     "targetVersions": {
         "target": "7.0.0"
