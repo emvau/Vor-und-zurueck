@@ -1,0 +1,14 @@
+{
+    "name": "Maqueen Plus V2",
+    "description": "Ein MakeCode Tutorial für den Maqueen Plus V2 Roboter",
+    "dependencies": {
+        "microbit": "*",
+        "maqueenPlusV2": "github:DFRobot/pxt-DFRobot_MaqueenPlus_v20"
+    },
+    "files": [
+        "maqueen.md"
+    ],
+    "targetVersions": {
+        "target": "7.0.0"
+    }
+}
