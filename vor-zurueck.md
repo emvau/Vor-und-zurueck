@@ -1,8 +1,10 @@
 # Maqueen Plus V2 – Vorwärts und Rückwärts @tutorial
 ##  @fullscreen
-
 In diesem Programm fährt der Maqueen Plus V2 Roboter
 4 Mal vorwärts und rückwärts!
+Die Erweiterung maqueenPlusV2 wurde automatisch installiert.
+Du findest die neuen Blöcke jetzt in der Kategorie
+**Maqueen Plus V2** in der Blockleiste links.
 ##  
 Füge einen ``||maqueenPlusV2:initialisiere Maqueen Plus V2||`` Block
 in den ``||basic:beim Start||`` Block ein.
