@@ -15,21 +15,20 @@ Füge einen ``||loops:4 mal wiederholen||`` Block
 unter den ``||maqueenPlusV2:initialisiere Maqueen Plus V2||`` Block ein.
 ##  
 Füge in den ``||loops:4 mal wiederholen||`` Block
-einen ``||maqueenPlusV2:Motor steuern||`` Block ein.
+einen ``||maqueenPlusV2:steuere||`` Block ein.
 Stelle folgendes ein:
-- Motor: **Alle Motoren**
-- Richtung: **Vorwärts**
+- Motor: **beide Räder**
+- Richtung: **vorwärts**
 - Geschwindigkeit: **255**
 ##  
 Füge danach einen ``||basic:pausiere (ms)||`` Block ein.
 Stelle die Zeit auf **1000** ms (= 1 Sekunde).
 ##  
-Füge einen weiteren ``||maqueenPlusV2:Motor steuern||`` Block ein.
+Füge einen weiteren ``||maqueenPlusV2:steuere||`` Block ein.
 Stelle folgendes ein:
-- Motor: **Alle Motoren**
-- Richtung: **Vorwärts**
-- Geschwindigkeit: **-255**
-Die negative Geschwindigkeit lässt den Roboter **rückwärts** fahren!
+- Motor: **beide Räder**
+- Richtung: **rückwärts**
+- Geschwindigkeit: **255**
 ##  
 Füge nochmal einen ``||basic:pausiere (ms)||`` Block ein.
 Stelle die Zeit wieder auf **1000** ms.
